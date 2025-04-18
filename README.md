@@ -1,2 +1,2 @@
-# SqaureModsMarket
-A Cloud to save Sqaure Mods
+# SquareModsMarket
+A Cloud to save Square Mods
